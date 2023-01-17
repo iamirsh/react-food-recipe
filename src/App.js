@@ -6,7 +6,6 @@ import Recipes from './Components/Recipes';
 import axios from 'axios';
 
 
-
 //************** */ Normal function
 function App() {
  
